@@ -347,7 +347,7 @@ static void ExemploWhile06()
     Console.WriteLine("Digite um numero pra ver se é ou não primo: ");
     int numero = Convert.ToInt32(Console.ReadLine());
 
-    while (indice >= 0)
+    while (indice >= 0) 
     {
         if (numero == 2 || numero == 3)
         {
