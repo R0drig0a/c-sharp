@@ -1,0 +1,1 @@
+﻿select id,processador,memoriaRam,fonte,placaDeVideo,preco from computadores
